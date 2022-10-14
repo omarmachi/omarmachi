@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @omarmachi
-- 👀 I’m interested in web develop
-- 🌱 I’m currently learning Javascript / Html and Css
+- 👀 I am interested in web development
+- 🌱 I’m currently learning Python, Javascript and Html / Css
 - 📫 How to reach me: omarmachicaballe@gmail.com
 
 <!---
